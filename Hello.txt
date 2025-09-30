@@ -1,0 +1,5 @@
+Algoritmi Paralleli
+
+1-Codici Vari scritte da me in c
+2-Appunti su gcc e makefile
+3-Codice Progetto
